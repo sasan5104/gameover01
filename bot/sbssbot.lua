@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all"
     },
-    sudo_users = {122774063,106014613,108151290,114986931,121208333},--Sudo users
+    sudo_users = {196071463,198899494},--Sudo users
     disabled_channels = {},
     realm = {79472297},--Realms Id
     moderation = {data = 'data/moderation.json'},
@@ -230,18 +230,13 @@ An advance Administration bot based on yagop/telegram-bot by @Mr_Ah_S
 https://Github.com/MRAHS/SBSS
 
 Admins
-@MR_AH_S [Developer]
-@Ra3oul13 [Manager]
-@Amiirdada [Support]
-Other Admins:
-@Taha_sh_report
-@Sajjad0S
-@i81therock
+@sorblack_2 [Developer]
+@sasan0210 [Manager]
+@sorblack[Support]
 
-برای خرید گپ به 4 آیدی اول و برای خرید آموزش ساخت ربات ضد اسپم و ساخت ربات ضد اسپم به @Mr_Ah_S مراجعه کنید
+برای خرید گپ به 4 آیدی اول و برای خرید آموزش ساخت ربات ضد اسپم و ساخت ربات ضد اسپم به @sasan0210 مراجعه کنید
 
-Our channels
-@SBSS_Team
+
 ]],
     help_text = [[
 لیست دستورات 
@@ -351,7 +346,7 @@ Our channels
 **فقط مدیران میتوانند از دستورات kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about,settings استفاده کنند
 
 **فقط صاحب گروه می تواند از دستورات res,setowner,promote,demote,log استفاده کند
-
+sudo @sorblack_2
 ]]
 
   }
